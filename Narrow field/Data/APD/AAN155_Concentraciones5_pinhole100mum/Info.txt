@@ -1,0 +1,2 @@
+Todas las medidas estan desgasadas con argon de Korta fresco (menos de 15mins) durante 5 minutos.
+Medidas confocales con un pinhole de 100mum.
